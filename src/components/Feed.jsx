@@ -30,7 +30,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright &copy; 2022 UTube
+          Copyright &copy; 2022 UTube&SAHIN MALLIK
         </Typography>
       </Box>
       <Box sx={{ overflowY: "auto", flex: 2, height: "90vh" }} p={2}>
